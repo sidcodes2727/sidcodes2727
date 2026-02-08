@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full+Stack+Developer;AI+ML+Enthusiast;Problem+Solver;Building+cool+stuff+daily)](https://git.io/typing-svg)
 
 ```bash
-siddhant@github:~$ node about.js
+sid@github:~$ node about.js
 ```
 
 ```javascript
