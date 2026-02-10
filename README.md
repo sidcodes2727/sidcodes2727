@@ -33,9 +33,3 @@ Motto: Code. Break. Fix. Repeat. | Game when I can.
 ![](https://github-readme-stats.vercel.app/api?username=sidcodes2727&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidcodes2727&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
-
-## Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/sidcodes2727/sidcodes2727/output/github-contribution-grid-snake-dark.svg)
