@@ -10,7 +10,7 @@ sid@github:~$ node about.js
 const dev = {
   name: "Siddhant Salunke",
   location: "Mumbai, India",
-  status: "Building cool stuff",
+  status: "Building cool stuff and learning AI",
   motto: "Code. Break. Fix. Repeat. | Game when I can."
 };
 
